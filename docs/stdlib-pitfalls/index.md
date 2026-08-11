@@ -108,6 +108,7 @@ of the places where the design makes certain mistakes easy to make.
    silent-ambiguity
    broken-equality
    timezone-classes
+   zoneinfo-casing
    system-timezone
    date-inheritance
    timedelta-seconds
